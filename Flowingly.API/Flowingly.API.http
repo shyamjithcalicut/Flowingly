@@ -1,0 +1,8 @@
+@Flowingly.API_HostAddress = http://localhost:7223
+
+
+
+GET {{Flowingly.API_HostAddress}}/api/ExpenseClaim/Hi%20Patricia%2C%20%20%0APlease%20create%20an%20expense%20claim%20for%20the%20below.%20Relevant%20details%20are%20marked%20up%20as%20requested%E2%80%A6%20%0A%3Cexpense%3E%3Ccost_centre%3EDEV632%3C%2Fcost_centre%3E%3Ctotal%3E35%2C000%3C%2Ftotal%3E%3Cpayment_method%3Epersonal%20card%3C%2Fpayment_method%3E%3C%2Fexpense%3E%20%0AFrom%3A%20William%20Steele%20%0ASent%3A%20Friday%2C%2016%20June%202022%2010%3A32%20AM%20%20%0ATo%3A%20Maria%20Washington%20%0ASubject%3A%20test%20%20%0AHi%20Maria%2C%20%20%0APlease%20create%20a%20reservation%20for%2010%20at%20the%20%3Cvendor%3ESeaside%20Steakhouse%3C%2Fvendor%3E%20for%20our%20%3Cdescription%3Edevelopment%20team%E2%80%99s%20project%20end%20celebration%3C%2Fdescription%3E%20on%20%3Cdate%3E27%20April%20%202022%3C%2Fdate%3E%20at%207.30pm.%20%20%0ARegards%2C%20%20%0AWilliam%20
+Accept: application/json
+
+###
